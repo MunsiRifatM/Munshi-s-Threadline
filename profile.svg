@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="Portrait placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#172e50"/><stop offset="1" stop-color="#0a1120"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2c5386"/><stop offset="1" stop-color="#14243d"/></linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <circle cx="460" cy="150" r="150" fill="#345d9b" opacity=".18"/>
+  <circle cx="95" cy="620" r="190" fill="#1c8ca9" opacity=".10"/>
+  <path d="M70 800c14-166 89-258 230-258s216 92 230 258" fill="url(#shirt)"/>
+  <ellipse cx="300" cy="315" rx="122" ry="152" fill="#9bb3d1" opacity=".22"/>
+  <path d="M178 312c-13-130 38-194 128-194 96 0 143 71 119 198l-17 66H191z" fill="#0b1424" opacity=".9"/>
+  <ellipse cx="300" cy="325" rx="102" ry="130" fill="#b6c9e1" opacity=".18"/>
+  <path d="M203 294c22-109 158-140 211-29-14-104-81-150-151-132-61 16-86 71-60 161z" fill="#0a1221"/>
+  <text x="300" y="690" fill="#c6d9f4" font-family="Arial,sans-serif" font-size="22" text-anchor="middle" letter-spacing="5">YOUR PHOTO</text>
+  <text x="300" y="725" fill="#7f9dc8" font-family="Arial,sans-serif" font-size="13" text-anchor="middle" letter-spacing="2">REPLACE assets/profile.svg</text>
+</svg>
